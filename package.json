@@ -1,0 +1,23 @@
+{
+  "name": "bootstrapcv",
+  "version": "1.0.0",
+  "description": "Welcome.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TCaldato/bootstrapCV.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TCaldato/bootstrapCV/issues"
+  },
+  "homepage": "https://github.com/TCaldato/bootstrapCV#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+  
+}
